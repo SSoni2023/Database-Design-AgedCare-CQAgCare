@@ -46,7 +46,7 @@ Sample SQL queries included to answer real-world business questions:
 
 ---
 
-## 📎 Notes
+## Notes
 
 - All `.sql` files are modular and well-structured
 - Diagram and model files support quick schema visualization
